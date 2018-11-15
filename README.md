@@ -11,68 +11,37 @@
 目录
 
 * [面试资源](./面试资源.md)
-
 * [项目资源](./收集的项目资源.md)
-
 * [知识锦集](./知识锦集.md)
-
 * [前端早读课文章](./前端早读课.md)
-
 * [Vue 相关](#vue)
-
 * [React 相关](#react)
-
 * [Javascript 函数式编程](#javascript-函数式编程)
-
 * [TypeSctipt](#typescript)
-
 * [webpack](#webpack)
-
 * [Parcel](#parcel)
-
 * [Gulp](#gulp)
-
 * [es系列](#es系列)
-
 * [Babel](#babel)
-
 * [http 请求库](#http-请求库)
-
 * [Promise](#promise)
-
 * [NodeJS](#nodejs)
-
 * [MongoDB](#mongodb)
-
 * [Git](#git)
-
 * [移动端](#移动端)
-
 * [可视化工具](#可视化工具)
-
 * [提高生产力工具](#提高生产力工具)
-
 * [Python](#python)
-
 * [PWA](#pwa)
-
 * [Flutter](#flutter)
-
 * [GraphQL](#graphql)
-
 * [机器学习](#机器学习)
-
 * [Chrmoe](#chrome)
-
 * [其他](#其他)
-
 * [博客/社区](#博客社区)
-
 * [业界技术交流会](#业界技术交流会一年一度的持续性的交流会)
-
 * [Github资源](#github资源)
-
-
+* 测试
 
 ## vue
 
@@ -174,7 +143,6 @@
 
   * [underscore-1.8.3.js 源码解读](https://github.com/hanzichi/underscore-analysis)
 
-    
 
 ## Typescript
 
@@ -747,6 +715,11 @@
 * [Web前端导航](http://www.alloyteam.com/nav/)
 
 * [移动端问题收集](https://github.com/RubyLouvre/mobileHack)
+
+### 测试
+
+- [mocha](https://mochajs.org/)
+- [chai](https://www.chaijs.com)
 
 ### 其他
 
